@@ -1,1 +1,1 @@
-Proje Raporu pdf olarak eklenmiştir. Projeyi çalıştırmak için req.txt dosyası içerisindeki kütüphaneleri kurduktan sonra llm_rag.py çalıştırmak yeterlidir açılan web arayüzününde kolaylık test edebilirsiniz.
+Proje Raporu pdf olarak eklenmiştir. Projeyi çalıştırmak için req.txt dosyası içerisindeki kütüphaneleri kurduktan sonra llm_rag.py içerisine OpenAI Api key girmeniz gerekmektedir sonrasında dosyası çalıştırmak yeterlidir açılan web arayüzünde kolaylık test edebilirsiniz.
