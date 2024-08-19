@@ -8,7 +8,7 @@ from langchain_community.document_loaders import TextLoader, CSVLoader
 from langchain.chains import RetrievalQA
 
 # OpenAI API key
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 pdf_search = None
 chat_history = []
