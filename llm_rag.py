@@ -109,6 +109,6 @@ def run_gradio_interface():
 
 if __name__ == "__main__":
     # OpenAI API key
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = ""
     
     run_gradio_interface()
